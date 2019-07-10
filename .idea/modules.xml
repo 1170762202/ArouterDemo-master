@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ArouterDemo-master.iml" filepath="$PROJECT_DIR$/ArouterDemo-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-base/lib-base.iml" filepath="$PROJECT_DIR$/lib-base/lib-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-home/module-home.iml" filepath="$PROJECT_DIR$/module-home/module-home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-other/module-other.iml" filepath="$PROJECT_DIR$/module-other/module-other.iml" />
+      <module fileurl="file://$PROJECT_DIR$/module-store/module-store.iml" filepath="$PROJECT_DIR$/module-store/module-store.iml" />
+    </modules>
+  </component>
+</project>
